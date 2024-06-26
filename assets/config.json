@@ -1,0 +1,23 @@
+{
+    "token": "xxxxx",
+    "UsersWhiteList": ["921245954923987005", "962217456770879488"],
+    "MessageTimeOut": 3000,
+    "APIKey": {
+      "IpInfoKey": "fe086ff698275f",
+      "ShodanKey": "c6k0uz6Fb1yjiKlPMZW1FiG3I7HVhapK"
+    },
+    "rule34.xxx": {
+      "MaxTags": 3,
+      "LimitPerTags": 1
+    },
+    "streamOpts": {
+      "width": 1280,
+      "height": 720,
+      "fps": 60,
+      "bitrateKbps": 2000,
+      "maxBitrateKbps": 2500,
+      "hardware_acceleration": true,
+      "videoCodec": "H264"
+    }
+  }
+  
